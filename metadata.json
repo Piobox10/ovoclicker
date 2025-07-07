@@ -1,0 +1,6 @@
+{
+  "name": "Ovo Clicker: React Edition",
+  "description": "A React-based clicker game about incubating and evolving eggs, based on 'Ovo Clicker: A Jornada da Transformação Infinita'. Features upgrades, transcendence, achievements, egg forms, traits, and events. Game progress is saved to local storage.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
